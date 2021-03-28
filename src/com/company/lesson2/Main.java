@@ -6,6 +6,7 @@ public class Main {
         int a = 2;
 
     }
+
     public static void invertArray(){
         int[] arr = {1, 0, 0, 1, 0, 1};
 
